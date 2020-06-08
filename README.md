@@ -39,15 +39,18 @@ anybody can easily identify the user status (safe/at-risk). We are targeting thi
 
 ## Demo video
 
-[![Watch the video](https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/suraksha%20demo.avi) or  (https://youtu.be/rU7VqI01Y1Q)]
+[![Watch the video] ( https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/suraksha%20demo.avi)
+
+or
+
+[![Watch the video] ( https://youtu.be/rU7VqI01Y1Q)]
 
 ## The architecture
 
 ![Video transcription/translation app]( https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/Architure%20diagram.png)
 
 ## The database diagram
-![Database Diagram]
-(https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/DatabaseDiagram.png)
+![Database Diagram] (https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/DatabaseDiagram.png)
 
 ## Long description
 
