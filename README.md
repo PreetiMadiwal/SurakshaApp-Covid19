@@ -39,11 +39,11 @@ anybody can easily identify the user status (safe/at-risk). We are targeting thi
 
 ## Demo video
 
-[![Watch the video](https://youtu.be/rU7VqI01Y1Q)
+[![Watch the video](https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/suraksha%20demo.avi) or  (https://youtu.be/rU7VqI01Y1Q)]
 
 ## The architecture
 
-![Video transcription/translation app]( archtitecture diagram.docx)
+![Video transcription/translation app]( https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/archtitecture%20diagram.docx)
 
 ## Long description
 
@@ -59,7 +59,7 @@ Impact
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/Road%20Map.jpg)
 
 1.Same can be developed as a plug in and integrated to existing app like Arogya setu where we already have real time data.
 2.For those who don’t have a smart phone we can design a device which is affordable by everyone to show this Safety status.
