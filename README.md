@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
+*Read this in other languages: [English](README.md).*
 
 ## Contents
 
@@ -43,7 +43,11 @@ anybody can easily identify the user status (safe/at-risk). We are targeting thi
 
 ## The architecture
 
-![Video transcription/translation app]( https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/archtitecture%20diagram.docx)
+![Video transcription/translation app]( https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/Architure%20diagram.png)
+
+## The database diagram
+![Database Diagram]
+(https://github.com/PreetiMadiwal/SurakshaApp-Covid19/blob/master/Suraksha_docsToSubmit/DatabaseDiagram.png)
 
 ## Long description
 
