@@ -1,0 +1,30 @@
+<!-- <ion-header>
+  <ion-toolbar>
+    <ion-buttons  style="margin-top: 50px;">
+      <ion-back-button>
+        <ion-icon src="\assets\icon\close.svg"  ></ion-icon>
+      </ion-back-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header> -->
+
+
+
+<ion-content>
+ 
+<div style="margin-top: 12px;">
+  <ion-icon src="\assets\icon\checkmark.svg" class="check"  *ngIf="data.status"></ion-icon>
+  <ion-icon src="\assets\icon\close (1).svg" class="check1"  *ngIf="!data.status"></ion-icon>
+
+  <p style="text-align: center; font-weight: bold; color: green;"  *ngIf="data.status">
+  You are safe
+  </p>
+  <p  style="text-align: center; font-weight: bold; color: red;" *ngIf="!data.status">
+ You are at Risk of COVID-19
+  </p>
+  <ion-button (click)="dismiss()" color="success" expand="full"  *ngIf="data.status">Ok</ion-button>
+  <ion-button (click)="dismiss()" color="danger" expand="full"  *ngIf="!data.status">Ok</ion-button>
+
+</div>
+
+</ion-content>

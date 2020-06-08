@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar color="secondary">
+    <ion-title style="text-align: center;">login To Suraksha</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<div style="margin: 10px;">
+  <div style="margin-top: 24px;">
+    <ion-label style="font-weight: bold;">
+      User Name*
+    </ion-label>
+    <ion-input [(ngModel)]="userName" style="border: 1px solid #000000; margin-top: 12px;">
+    
+    </ion-input>
+  </div>
+  <div style="margin-top: 24px;">
+    <ion-label style="font-weight: bold;">
+      Password*
+    </ion-label>
+    <ion-input [(ngModel)]="password" type="password" style="border: 1px solid #000000;margin-top: 12px;">
+    
+    </ion-input>
+  </div>
+  <ion-button color="secondary"  style="margin-top: 24px;" size="full" (click)="submit()">Submit</ion-button> 
+</div>
+
+</ion-content>
